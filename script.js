@@ -1,0 +1,1 @@
+alert(" Welcome to our site! We hope you enjoy our project, otherwise, WE WILL HACK YOUR COMPUTER! *Beware coders and coderets*")
